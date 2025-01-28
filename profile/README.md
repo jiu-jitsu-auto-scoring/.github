@@ -4,7 +4,7 @@
 
 ## Repositories
 
-- `model` : The sourcecode and documentation for the model
+- [`model`](https://github.com/jiu-jitsu-auto-scoring/model) : The sourcecode and documentation for the model
 
 #### Contributors
 
