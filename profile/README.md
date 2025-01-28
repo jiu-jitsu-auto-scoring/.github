@@ -2,6 +2,10 @@
 *This Readme is a **WIP***
 ## Introduction
 
+## Repositories
+
+- `model` : The sourcecode and documentation for the model
+
 #### Contributors
 
 - Humza Iqbal
