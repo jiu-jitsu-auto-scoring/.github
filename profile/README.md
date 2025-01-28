@@ -2,7 +2,7 @@
 *This Readme is a **WIP***
 ## Introduction
 
-Brazilian Jiu-Jitsu (BJJ) is a martial art and combat sport that emphasizes grappling, ground fighting, and submission techniques, with most of the action occurring on the ground. The objective is to control or neutralize an opponent by taking them to the ground and applying techniques to secure a submission. We aim to leverage machine learning and computer vision to develop an automatic match scoring algorithm for BJJ matches. This builds on existing research, incorporating insights from previous academic work to enhance accuracy and applicability.
+Brazilian Jiu-Jitsu (BJJ) is a martial art and combat sport that emphasizes grappling, ground fighting, and submission techniques, with most of the action occurring on the ground. The objective is to control or neutralize an opponent by taking them to the ground and applying techniques to secure a submission. Building on existing research, we aim to leverage machine learning and computer vision to develop an automatic match scoring algorithm for BJJ matches. 
 
 #### Contributors
 - Humza Iqbal
