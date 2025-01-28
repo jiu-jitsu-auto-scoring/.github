@@ -2,12 +2,7 @@
 *This Readme is a **WIP***
 ## Introduction
 
-## Repositories
-
-- [`model`](https://github.com/jiu-jitsu-auto-scoring/model) : The sourcecode and documentation for the model
-
 #### Contributors
-
 - Humza Iqbal
     - [github](https://github.com/HumzAIqbal67)
     - [mailto](mailto://humza.iqbal@mail.utoronto.ca)
@@ -18,11 +13,16 @@
     - [github](https://github.com/marceloponceardon)
     - [mailto](mailto://poncema2.mail.utoronto.ca)
 
-
-
-
 ## Acknowledgements
 
+### Datasets:
+- [harmony4d](https://github.com/jyuntins/harmony4d)
+- [Brazilian Jiu-Jitsu Positions Dataset](https://vicos.si/resources/jiujitsu/)
+
+### Report:
+- [WIP]()
+
+We were originally inspired by the [work](https://github.com/talhaahussain/grappling-pose-identification) of [Talhaa Hussain](https://github.com/talhaahussain).
 <!--
 
 **Here are some ideas to get you started:**
